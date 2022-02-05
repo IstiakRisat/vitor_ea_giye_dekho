@@ -1,3 +1,6 @@
 # vitor_ea_giye_dekho
 Welcome 
-python2
+apt update
+apt upgrade
+apt install python
+apt install python2
